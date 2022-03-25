@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "fullname": "Rine Winsrizal Z",
+      "comment": "\n                With supporting text below as a natural lead-in to additional content.\n              ",
+      "job": "front-end Developer",
+      "id": 2
+    },
+    {
+      "fullname": "Ihsan Miftahul Huda",
+      "job": "Back End Developer",
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not",
+      "id": 3
+    }
+  ]
+}
